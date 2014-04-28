@@ -5,6 +5,10 @@ Please refer to the documentation provided with the
 [original dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 for more information on these variables.
 
+The instructions on how to run the script as well as description of the used method can be found in
+[project's readme file](README.md).
+
+
 ## Variables of the output dataset
 
 * subject
